@@ -2,7 +2,7 @@
 */bin/
 */obj/
 
-git config user.name "Ваше Имя Фамилия"
+# в каталоге .vs хранятся локальные настройки VisualStudio
 .vs/
 
 # в каталоге packages хранятся зависимости
